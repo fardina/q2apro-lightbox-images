@@ -2,17 +2,28 @@
 
 /*
 	Plugin Name: Lightbox Images
-	Plugin URI: http://www.q2apro.com/plugins/lightbox
+	Plugin URI: 
 	Plugin Description: Provides a Lightbox Effect for all images in posts.
 	Plugin Version: 1.0
 	Plugin Date: 2014-03-21
-	Plugin Author: q2apro.com
-	Plugin Author URI: http://www.q2apro.com
+	Plugin Author: q2apro
+	Plugin Author URI: 
 	Plugin Minimum Question2Answer Version: 1.5
-	Plugin Update Check URI: http://www.q2apro.com/pluginupdate?id=60
+	Plugin Update Check URI: 
 	
-	Licence: Copyright © q2apro.com - All rights reserved
+	Plugin License: GPLv3
 
+	This program is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	More about this license: http://www.gnu.org/licenses/gpl.html
 */
 
 	if (!defined('QA_VERSION')) { // don't allow this page to be requested directly from browser
