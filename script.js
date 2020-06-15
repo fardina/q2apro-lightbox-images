@@ -6,7 +6,7 @@
 
 $(document).ready(function(){
     // lightbox effect for images (overlay)
-    $(".entry-content img").click(function(){
+    $(".qa-q-view-content img, .qa-a-item-content img").click(function(){
         $("#lightbox-popup").fadeIn("slow");
         $("#lightbox-img").attr("src", $(this).attr("src"));
         $("#lightbox-center").css("margin-top", ($(window).height() - $("#lightbox-center").height())/2  + 'px');
